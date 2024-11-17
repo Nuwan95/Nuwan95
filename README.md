@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwan95&label=Profile%20views&color=0e75b6&style=flat" alt="nuwan95" /> </p>
 
-- 🔭 I’m currently working on **TravelMapSL**
+- 🔭 I’m currently working on **TravelMapSL** project
 
 - 📝 I regularly write articles on [https://medium.com/@niwanigasingha](https://medium.com/@niwanigasingha)
 
